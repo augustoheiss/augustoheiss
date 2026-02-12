@@ -17,9 +17,9 @@
 
 ### 💀 O Operador da Cadeira (The Chair Operator)
 
-Não sou apenas um desenvolvedor; sou um **Exterminador de Entropia**. [cite_start]Minha origem é a Matemática[cite: 39], a linguagem pura do universo, e a Sala de Aula, o campo de batalha onde a lógica enfrenta a distração.
+Não sou apenas um desenvolvedor; sou um **Exterminador de Entropia**. Minha origem é a Matemática, a linguagem pura do universo, e a Sala de Aula, o campo de batalha onde a lógica enfrenta a distração.
 
-[cite_start]Atualmente em transição de **Professor de Matemática** para **Engenheiro de IA/Python**[cite: 39, 44], eu não "aprendo" tecnologias; eu as submeto à minha vontade para resolver problemas reais.
+Atualmente em transição de **Professor de Matemática** para **Engenheiro de IA/Python**, eu não "aprendo" tecnologias; eu as submeto à minha vontade para resolver problemas reais.
 
 Meu superpoder não é o talento, é a **Bateria na Cadeira**: a capacidade de suportar o desconforto cognitivo até que o problema seja destruído e a solução seja elegante.
 
@@ -27,11 +27,11 @@ Meu superpoder não é o talento, é a **Bateria na Cadeira**: a capacidade de s
 
 | Atributo | Descrição Tática |
 | :--- | :--- |
-| **CLASSE** | [cite_start]`Matemático` / `Python Developer` / `AI Student` [cite: 32, 39, 44] |
-| **ARMA PRINCIPAL** | [cite_start]**Python** (Automação, Dados, Lógica Pura) [cite: 44] |
-| **HABILIDADE PASSIVA** | [cite_start]**Didática de Combate**: Capacidade de traduzir o complexo para o simples (herdado de anos no ensino). |
-| **HABILIDADE ATIVA** | [cite_start]**Pragmatismo**: Transformar rotinas caóticas em algoritmos limpos e regras de negócio claras[cite: 45, 75]. |
-| **PROJETO SIGNATURE** | [cite_start]**Organizador Territorial**: Sistema Python que gerencia 60+ territórios, eliminando o erro humano. |
+| **CLASSE** | `Matemático` / `Python Developer` / `AI Student`  |
+| **ARMA PRINCIPAL** | **Python** (Automação, Dados, Lógica Pura)  |
+| **HABILIDADE PASSIVA** | **Didática de Combate**: Capacidade de traduzir o complexo para o simples (herdado de anos no ensino). |
+| **HABILIDADE ATIVA** | **Pragmatismo**: Transformar rotinas caóticas em algoritmos limpos e regras de negócio claras. |
+| **PROJETO SIGNATURE** | **Organizador Territorial**: Sistema Python que gerencia 60+ territórios, eliminando o erro humano. |
 
 ### 🩸 Fraquezas (Weaknesses)
 
@@ -52,8 +52,8 @@ Meu superpoder não é o talento, é a **Bateria na Cadeira**: a capacidade de s
 
 ### 📚 Grimório Atual (Current Studies)
 
-* [cite_start]📖 **Lendo:** *O Programador Pragmático* (Buscando a ortogonalidade e a eficiência máxima).
-* [cite_start]🧠 **Estudando:** Inteligência Artificial, Ciência de Dados e aprofundamento em Python[cite: 37, 74].
+* 📖 **Lendo:** *O Programador Pragmático* (Buscando a ortogonalidade e a eficiência máxima).
+* 🧠 **Estudando:** Inteligência Artificial, Ciência de Dados e aprofundamento em Python.
 * 🔥 **Filosofia:** A fuga do sistema antropocêntrico através da lógica exata.
 
 ---
